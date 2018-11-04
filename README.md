@@ -1,3 +1,3 @@
-# React Native Swipe
+# React Native Swipe component
 
-React Native Tinder like application with animations.
+React Native reusable swipe component using Animated Module
